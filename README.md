@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tess</h1>
 <h3 align="center">A passionate full snack developer from Kenya</h3>
 
-<!-- <p align="right"> <img src="file:///home/tess/Downloads/A%20day%20off.gif" alt="teresia012" /> </p>  -->
+<p align="right"> <img src="https://github.com/TERESIA012/TERESIA012/blob/main/A%20day%20off.mp4" alt="teresia012" /> </p> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teresia012&label=Profile%20views&color=0e75b6&style=flat" alt="teresia012" /> </p>
